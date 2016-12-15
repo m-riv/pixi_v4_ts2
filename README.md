@@ -1,0 +1,1 @@
+PIXI.js v4をTypeScript 2.1.4環境で使ってみる。
